@@ -1,4 +1,4 @@
-# Déjà Dev ⏲
+# Déjà Dev ⌛
 
 > We&#39;ve been here before, let&#39;s save some time shall we? An opinionated generator for web projects.
 
