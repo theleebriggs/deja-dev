@@ -1,0 +1,25 @@
+{
+  "name": "sao-deja-dev",
+  "version": "0.0.0",
+  "description": "We&#39;ve been here before, let&#39;s save some time shall we?",
+  "repository": {
+    "url": "theleebriggs/sao-deja-dev",
+    "type": "git"
+  },
+  "author": "theleebriggs <coffeegunshow@gmail.com> (github.com/theleebriggs)",
+  "license": "MIT",
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "sao": "^1.0.0"
+  }
+}
