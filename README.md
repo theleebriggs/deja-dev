@@ -19,7 +19,7 @@ Built using the [SAO](https://github.com/saojs/sao) framework.
 ## Usage 🚀
 
 ```bash
-npx sao theleebriggs/deja-dev my-project
+npx sao theleebriggs/deja-dev -u my-project
 ```
 
 ## TODO 💅
